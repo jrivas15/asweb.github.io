@@ -50,7 +50,7 @@ body{
     margin-bottom: 25px;
     border-radius: 9%;
     height: 60vw;
-    box-shadow: 0 0 355px  rgba(0, 0, 0, 1);
+    box-shadow: 0 0 50px  rgba(0, 0, 0, 1);
 }
 
 /*CLIENTES*/
@@ -61,4 +61,13 @@ div.gallery {
   }
 img.galley:hover{
     border: 1px solid aqua;
+}
+
+/*Logo-bar*/
+.logo_bar{
+    width: 15vw;
+}
+.navbar{
+    margin: 0px;
+    font-size: 2vw;
 }
