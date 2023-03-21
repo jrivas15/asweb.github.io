@@ -44,6 +44,8 @@ body{
 
 .parrafo_contenedor1{
     font-size: 2.1vw;
+    text-align: justify;
+    color: red;
 }
 
 .img_content{
@@ -65,7 +67,7 @@ img.galley:hover{
 
 /*Logo-bar*/
 .logo_bar{
-    width: 15vw;
+    width: 18vw;
 }
 .navbar{
     margin: 0px;
