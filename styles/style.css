@@ -72,3 +72,60 @@ img.galley:hover{
     margin: 0px;
     font-size: 2.5vw;
 }
+/*-----contacto------*/
+/* LISTAS */
+.lista{
+    list-style: none;
+}
+.icon-list{
+    
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.icon-list:hover{
+    
+    opacity: 0.7;
+
+}
+/*card*/
+
+.card-contacto{
+    background-color: rgb(97, 95, 95);
+    width: 90vw;
+    height: 55vw;
+    
+    margin: 10px auto;
+    justify-content: center;
+    
+    box-shadow: 0 0 10px;
+}
+.content-card{
+    display: flex;
+    margin-top: 4vh;
+    font-size: 2.5vw;
+}
+.img_contacto{
+    height: 55vw;
+    width: auto;
+    
+}
+.lista{
+    
+    margin-top: 10px;
+    
+}
+
+.content-card h1{
+    margin: 25px 0;
+    text-align: center;
+    font-size: 5vw;
+}
+
+.content-card p {
+    margin: 0 25px;
+    text-align: center;
+    
+
+}
