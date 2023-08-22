@@ -1,0 +1,7 @@
+
+
+.carousel-inner{
+    max-height: 39rem;
+    height: auto;
+    filter: brightness(0.65); 
+}

@@ -1,14 +1,12 @@
+html{
+    font-size: 14pt;
+}
+
 .titulo_h5{
     font-size: 5vw;
 }
 .p_imagen{
     font-size: 3vw;
-}
-img.d-block{
-    width :auto;
-    height: auto;
-    filter: brightness(0.65);
-    
 }
 
 body{
@@ -17,6 +15,13 @@ body{
     color: white;
 }
 
+.carousel-inner{
+
+    max-height: 39rem;
+    width :70%;
+    height: auto;
+    filter: brightness(0.65); 
+}
 
 .centered {
     text-align: center;
@@ -66,12 +71,10 @@ img.galley:hover{
 
 /*Logo-bar*/
 .logo_bar{
-    width: 23vw;
+    width: 30%;
+    margin: 15px;
 }
-.navbar{
-    margin: 0px;
-    font-size: 2.5vw;
-}
+
 /*-----contacto------*/
 /* LISTAS */
 .lista{
